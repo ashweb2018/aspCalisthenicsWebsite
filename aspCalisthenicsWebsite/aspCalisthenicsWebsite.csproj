@@ -126,6 +126,12 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Images\arniepalncelean.PNG" />
+    <Content Include="Images\arontrophy.JPG" />
+    <Content Include="Images\arnieandleah.jpeg" />
+    <Content Include="Images\leahelbowplanche.JPG" />
+    <Content Include="Images\meonearmelbowplance.jpg" />
+    <Content Include="Images\mepbarshandstand.JPG" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -212,7 +218,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

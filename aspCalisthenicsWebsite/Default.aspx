@@ -3,11 +3,80 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Ashleys Calisthenics Website</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <h1>Milton Keynes Calisthenics Club</h1>
+        <p class="lead">Describe yoyr qwbaur</p>
+        <p><a href="Contact.aspx" class="btn btn-primary btn-lg">Contact Us &raquo;</a></p>
     </div>
 
+<%--    Start od Bootstrap Caousel--%>
+
+    <section id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <section class="carousel-inner" role="listbox">
+            <figure class="item active">
+                <img src="Images/arnieandleah.jpeg" alt="" title="" />
+                <figcaption class="carousel-caption">
+                    Image 1
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/arniepalncelean.PNG" />
+                <figcaption class="carousel-caption">
+                    Image 2
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/arontrophy.JPG" />
+                <figcaption class="carousel-caption">
+                    Image 2
+                </figcaption>
+            </figure>
+            <figure class="item active">
+                <img src="Images/arnieandleah.jpeg" alt="" title="" />
+                <figcaption class="carousel-caption">
+                    Image 1
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/arniepalncelean.PNG" />
+                <figcaption class="carousel-caption">
+                    Image 2
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/arontrophy.JPG" />
+                <figcaption class="carousel-caption">
+                    Image 2
+                </figcaption>
+            </figure>
+            ...
+        </section>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </section>
+
+<%--End of Bootstrap Carousel--%>
+
+    <img src="<img src="<img src="Images/arnieandleah.jpeg" />" />" class="img-responsive" alt="image description" title="image description"/>
+    <img src="<img src="img src="<img src="Images/arniepalncelean.PNG" />" />" class="img-responsive" alt="image description" title="image description"/>
     <div class="row">
         <div class="col-md-4">
             <h2>Getting started</h2>
