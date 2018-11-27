@@ -75,7 +75,7 @@
 
 <%--End of Bootstrap Carousel--%>
 
-    <img src="<img src="<img src="Images/arnieandleah.jpeg" />" />" class="img-responsive" alt="image description" title="image description"/>
+    <img src="<img src="<img src="Images/arnieandleah.jpeg" class="img-responsive" alt="image description" title="image description"/>
     <img src="<img src="img src="<img src="Images/arniepalncelean.PNG" />" />" class="img-responsive" alt="image description" title="image description"/>
     <div class="row">
         <div class="col-md-4">
