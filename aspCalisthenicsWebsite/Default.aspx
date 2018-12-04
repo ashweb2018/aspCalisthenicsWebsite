@@ -4,11 +4,11 @@
 
     <div class="jumbotron">
         <h1>Milton Keynes Calisthenics Club</h1>
-        <p class="lead">Describe yoyr qwbaur</p>
+        <p class="lead">Describe your website</p>
         <p><a href="Contact.aspx" class="btn btn-primary btn-lg">Contact Us &raquo;</a></p>
     </div>
 
-<%--    Start od Bootstrap Caousel--%>
+<%-- Start of Bootstrap Caousel --%>
 
     <section id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
@@ -24,7 +24,7 @@
         <!-- Wrapper for slides -->
         <section class="carousel-inner" role="listbox">
             <figure class="item active">
-                <img src="Images/arnieandleah.jpeg" alt="" title="" />
+                <img src="Images/arniepalnceleanedit.png" />" alt="" title="" />
                 <figcaption class="carousel-caption">
                     Image 1
                 </figcaption>
@@ -42,21 +42,21 @@
                 </figcaption>
             </figure>
             <figure class="item active">
-                <img src="Images/arnieandleah.jpeg" alt="" title="" />
+                <img src="Images/leahelbowplanche.JPG" alt="leahelbowplanche" title="leahelbowplanche" />
                 <figcaption class="carousel-caption">
-                    Image 1
+                    Image 4
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/arniepalncelean.PNG" />
+                <img src="Images/meonearmelbowplance.jpg" />
                 <figcaption class="carousel-caption">
-                    Image 2
+                    Image 5
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/arontrophy.JPG" />
+                <img src="Images/mepbarshandstand.JPG" />
                 <figcaption class="carousel-caption">
-                    Image 2
+                    Image 6
                 </figcaption>
             </figure>
             ...
@@ -73,10 +73,9 @@
         </a>
     </section>
 
-<%--End of Bootstrap Carousel--%>
+<%-- End of Bootstrap Carousel --%>
 
-    <img src="<img src="<img src="Images/arnieandleah.jpeg" class="img-responsive" alt="image description" title="image description"/>
-    <img src="<img src="img src="<img src="Images/arniepalncelean.PNG" />" />" class="img-responsive" alt="image description" title="image description"/>
+    
     <div class="row">
         <div class="col-md-4">
             <h2>Getting started</h2>

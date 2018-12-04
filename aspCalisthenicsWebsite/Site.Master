@@ -13,6 +13,8 @@
     </asp:PlaceHolder>
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="Content/Calistylesheet.css" rel="stylesheet" />
+    
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
@@ -46,9 +48,10 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    <img src="Images/arnieplanchelean(2)logo.png" />
                     <a class="navbar-brand" runat="server" href="~/">Calisthenics</a>
                 </div>
-                <div class="navbar-collapse collapse">
+                <div class="navbar-collapse collapse">                   
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
@@ -65,7 +68,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Ashley Henney | 2018 Web Applications</p>
             </footer>
         </div>
 
