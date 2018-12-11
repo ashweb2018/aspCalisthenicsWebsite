@@ -24,7 +24,7 @@
         <!-- Wrapper for slides -->
         <section class="carousel-inner" role="listbox">
             <figure class="item active">
-                <img src="Images/arniepalnceleanedit.png" />" alt="" title="" />
+                <img src="Images/arniepalnceleanedit.png" alt="" title=""  />
                 <figcaption class="carousel-caption">
                     Image 1
                 </figcaption>
@@ -36,21 +36,21 @@
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/arontrophy.JPG" />
+                <img src="Images/arontrophy.JPG" alt="Mate with trophy"  title="Mate with trophy"/>
                 <figcaption class="carousel-caption">
                     Image 2
                 </figcaption>
             </figure>
-            <figure class="item active">
-                <img src="Images/leahelbowplanche.JPG" alt="leahelbowplanche" title="leahelbowplanche" />
+            <figure class="item">
+                <img src="Images/mepbarshandstand.JPG" />
                 <figcaption class="carousel-caption">
-                    Image 4
+                    Image 6
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/meonearmelbowplance.jpg" />
+                <img src="Images/mepbarshandstand.JPG" />
                 <figcaption class="carousel-caption">
-                    Image 5
+                    Image 6
                 </figcaption>
             </figure>
             <figure class="item">
