@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>Milton Keynes Calisthenics Club</h1>
-        <p class="lead">Describe your website</p>
+        <p class="lead">Welcome to MK Calisthenics Club website a website for anyone wanting to learn more about calisthenics and join our club</p>
         <p><a href="Contact.aspx" class="btn btn-primary btn-lg">Contact Us &raquo;</a></p>
     </div>
 
@@ -24,13 +24,13 @@
         <!-- Wrapper for slides -->
         <section class="carousel-inner" role="listbox">
             <figure class="item active">
-                <img src="Images/arniepalnceleanedit.png" alt="" title=""  />
+                <img src="Images/Female-Calisthenics.jpg" alt="planche" title="girl doing straddle planche" />
                 <figcaption class="carousel-caption">
                     Image 1
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/arniepalncelean.PNG" />
+                <img src="Images/plancheman.jpg" alt="paralettes planche" title="man doing plance on paralettes"/>
                 <figcaption class="carousel-caption">
                     Image 2
                 </figcaption>
@@ -38,23 +38,23 @@
             <figure class="item">
                 <img src="Images/arontrophy.JPG" alt="Mate with trophy"  title="Mate with trophy"/>
                 <figcaption class="carousel-caption">
-                    Image 2
+                    Image 3
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/mepbarshandstand.JPG" />
+                <img src="Images/fronlever.jpg" alt="front lever" title="man doing front lever"/>
                 <figcaption class="carousel-caption">
-                    Image 6
+                    Image 4
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/mepbarshandstand.JPG" />
+                <img src="Images/backlever.jpg" alt="back lever" title="man doing back lever"/>
                 <figcaption class="carousel-caption">
-                    Image 6
+                    Image 5
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/mepbarshandstand.JPG" />
+                <img src="Images/outdoorgym.jpg" alt="outdoor gym" title="outdoor gym group workout "/>  
                 <figcaption class="carousel-caption">
                     Image 6
                 </figcaption>

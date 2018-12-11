@@ -17,9 +17,12 @@
                             <div class="col-sm-6">
                         <address>
                             Milton Keynes Calisthenics Club<br />
+                            15 Winchester circle<br />
+                            Kingston<br />
                             Milton Keynes<br />
-                            <abbr title="Phone">P:</abbr>
-                            425.555.0100
+                            MK10 0BA <br />
+                            <abbr title="Phone">Tel:</abbr>
+                            01908 112233
                         </address>
                         <address>
                             <strong>Support:</strong>   <a href="mailto:Support@mkcaliclub.com">Support@mkcaliclub.com</a><br />
