@@ -51,7 +51,7 @@
                         <div class="form-group">
                             <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
                             <div class="col-sm-9">
-                                <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+                                <input type="email" class="form-control" id="inputEmail3" placeholder="Email" required>
                             </div>
                         </div>
                         <br /><br />
@@ -59,9 +59,8 @@
                             <label for="inputPassword3" class="col-sm-3 control-label">Full Name</label>
                             <div class="col-sm-9">
                                 <input class="form-control" id="inputPassword3" 
-                                    placeholder="Full Name" required pattern=" .{3,}" 
-                                    title="please enter more than 3 charracters"
-                                    type=""/>
+                                    placeholder="Full Name" required pattern="[A-Za-z]{3}" 
+                                    title="please enter more than 3 charracters" type="password"/>
                                     
                             </div>
                         </div>

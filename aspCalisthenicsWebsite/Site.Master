@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <title><%: Page.Title %> - My Calisthenics website</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -14,7 +14,6 @@
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="Content/Calistylesheet.css" rel="stylesheet" />
-    
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
@@ -48,7 +47,8 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <img src="Images/arnieplanchelean(2)logo.png" />
+                    <img class="logo" src="Images/arnieplanchelean(2)logo.png" alt="Website Logo Image" 
+                        title="Arnie performing a planche lean" style="height:50px;margin:4px;"/>
                     <a class="navbar-brand" runat="server" href="~/">Calisthenics</a>
                 </div>
                 <div class="navbar-collapse collapse">                   
@@ -68,7 +68,16 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Ashley Henney | 2018 Web Applications</p>
+                <p class="text-center">
+                    &copy; <%: DateTime.Now.Year %> - Ashley Henney | 
+                    Bucks New University |
+                    Foundation Degree in Computing 2018|
+                    Module: CO456 - Web Applications |
+                    CW1  Design and Develop a Website 
+                </p>
+                <p class="text-center">
+                    Link 1 | Link 2 | Link 3
+                </p>
             </footer>
         </div>
 
