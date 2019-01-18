@@ -57,7 +57,7 @@
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Equiptment">Equiptment</a></li>
                         <li><a runat="server" href="~/Competitions">Competitions</a></li>
-                        <li><a runat="server" href="~/Links">Links</a></li>
+                        <li><a runat="server" href="~/Links">Opening Times</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                     </ul>
                 </div>
@@ -76,7 +76,7 @@
                     CW1  Design and Develop a Website 
                 </p>
                 <p class="text-center">
-                    Link 1 | Link 2 | Link 3
+                    www.schoolofcalisthenics.com | www.worldcalisthenics.org | www.wswcf.org
                 </p>
             </footer>
         </div>

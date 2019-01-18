@@ -137,12 +137,13 @@
     <Content Include="Images\Female-Calisthenics.jpg" />
     <Content Include="Images\fronlever.jpg" />
     <Content Include="Images\highmetalpbars.jpg" />
+    <Content Include="Images\IMG_7314.TRIM.MOV" />
     <Content Include="Images\lowmetalpbars.jpg" />
     <Content Include="Images\outdoorgym.jpg" />
     <Content Include="Images\plancheman.jpg" />
     <Content Include="Images\rings.jpg" />
     <Content Include="Images\woodenfloorpbars.jpg" />
-    <Content Include="Links.aspx" />
+    <Content Include="OpeningTimes.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -219,12 +220,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Links.aspx.cs">
-      <DependentUpon>Links.aspx</DependentUpon>
+    <Compile Include="OpeningTimes.aspx.cs">
+      <DependentUpon>OpeningTimes.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Links.aspx.designer.cs">
-      <DependentUpon>Links.aspx</DependentUpon>
+    <Compile Include="OpeningTimes.aspx.designer.cs">
+      <DependentUpon>OpeningTimes.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
