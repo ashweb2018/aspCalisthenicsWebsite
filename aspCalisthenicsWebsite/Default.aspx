@@ -2,6 +2,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
+<%-- Main Page Heading --%>
+
     <div class="jumbotron">
         <h1>Milton Keynes Calisthenics Club</h1>
         <p class="lead">Welcome to MK Calisthenics Club website a website for anyone wanting to learn more about calisthenics and join our club</p>
@@ -74,7 +76,5 @@
     </section>
 
 <%-- End of Bootstrap Carousel --%>
-
-    
 
 </asp:Content>
