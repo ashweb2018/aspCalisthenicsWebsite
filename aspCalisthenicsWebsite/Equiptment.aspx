@@ -5,6 +5,8 @@
         <br />
         <br />
 
+         <h1>Milton Keynes Calisthenics Club</h1>
+
         <h1>Equiptment</h1>
 
         <h2>Outdoor Gym</h2> 
@@ -16,8 +18,8 @@
         <h2>Paralettes</h2>
 
         <h3>Paralettes are usually 3 different heights and are used for practicing static holds like handstands, L-sits and planche</h3>
-    
-        <img src="Images/woodenfloorpbars.jpg" alt="pbars" title="wooden pbars"/>
+       
+        <img src="Images/floorparaletteswhite.jpg" alt="pbars" title="wooden pbars"/>
         <img src="Images/lowmetalpbars.jpg" alt="pbars" title="low metal pbars"/>
         <img src="Images/highmetalpbars.jpg" alt="pbars" title="high metal pbars"/>
 
@@ -26,7 +28,6 @@
         <h3>Resistance bands are used for assiting in movements you might not be strong enough to do without help</h3>
         
         <img src="Images/bands.jpg" alt="bands" title="resistance bands"/>
-        <img src="Images/bandlever.jpg" alt="band lever" title="someone doing a lever with a band"/>
 
         <h2>Olympic Rings</h2>
 

@@ -129,12 +129,16 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Images\aboutpagepicbarpark.jpg" />
+    <Content Include="Images\arnie planche lean %282%29logo.png" />
     <Content Include="Images\arontrophy.JPG" />
     <Content Include="Images\backlever.jpg" />
     <Content Include="Images\bandlever.jpg" />
     <Content Include="Images\bands.jpg" />
     <Content Include="Images\barsetup.jpg" />
+    <Content Include="Images\comppic.jpg" />
     <Content Include="Images\Female-Calisthenics.jpg" />
+    <Content Include="Images\floorparaletteswhite.jpg" />
     <Content Include="Images\fronlever.jpg" />
     <Content Include="Images\highmetalpbars.jpg" />
     <Content Include="Images\IMG_7314.TRIM.MOV" />
@@ -174,6 +178,7 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+    <Content Include="Videos\IMG_7314.TRIM_x264.mp4" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -252,7 +257,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Videos\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

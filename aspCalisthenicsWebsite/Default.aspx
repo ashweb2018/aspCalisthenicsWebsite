@@ -32,7 +32,7 @@
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/plancheman.jpg" alt="paralettes planche" title="man doing plance on paralettes"/>
+                <img src="Images/plancheman.jpg" alt="paralettes planche" title="man doing planche on paralettes"/>
                 <figcaption class="carousel-caption">
                     Image 2
                 </figcaption>

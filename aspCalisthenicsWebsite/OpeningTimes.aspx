@@ -4,6 +4,9 @@
         <br />
         <br />
         <div class="col-lg-6">
+
+             <h1>Milton Keynes Calisthenics Club</h1>
+
             <h1>Opening Times</h1>
 
             <table class="table table-bordered">
@@ -54,6 +57,5 @@
     </section>
     <iframe width="1000" height="500" src="https://www.youtube.com/embed/kIVxdIWy7Eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
-    
 
 </asp:Content>

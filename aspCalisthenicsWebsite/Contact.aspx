@@ -2,6 +2,9 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <section class="jumbotron">
+
+         <h1>Milton Keynes Calisthenics Club</h1>
+
         <h2>Contact Us</h2>
     </section>
     <main>
