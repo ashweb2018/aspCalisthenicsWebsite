@@ -4,11 +4,11 @@
 
 <%-- Main Page Heading --%>
 
-    <div class="jumbotron">
+    <header class="jumbotron">
         <h1>Milton Keynes Calisthenics Club</h1>
         <p class="lead">Welcome to MK Calisthenics Club website a website for anyone wanting to learn more about calisthenics and join our club</p>
         <p><a href="Contact.aspx" class="btn btn-primary btn-lg">Contact Us &raquo;</a></p>
-    </div>
+    </header>
 
 <%-- Start of Bootstrap Caousel --%>
 
@@ -61,7 +61,6 @@
                     Image 6
                 </figcaption>
             </figure>
-            ...
         </section>
 
         <!-- Controls -->

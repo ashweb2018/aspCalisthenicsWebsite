@@ -3,12 +3,12 @@
     <section class="row">
         <br />
         <br />
+        
+            <section class="jumbotron">
+                <h1>Milton Keynes Calisthenics Club</h1>
+                <h2>Opening Times</h2>
+            </section>
         <div class="col-lg-6">
-
-             <h1>Milton Keynes Calisthenics Club</h1>
-
-            <h1>Opening Times</h1>
-
             <table class="table table-bordered">
                 <tr class="bg-info">
                     <th>Day</th>
@@ -55,7 +55,6 @@
         </div>
         <div class="col-lg-6"></div>
     </section>
-    <iframe width="1000" height="500" src="https://www.youtube.com/embed/kIVxdIWy7Eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+    <iframe width="1000" height="500" src="https://www.youtube.com/embed/kIVxdIWy7Eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </asp:Content>
